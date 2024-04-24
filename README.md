@@ -1,3 +1,4 @@
+# Curve trade opportunities based on FOMC minutes
 The project aims to identify curve trade opportunities on U.S. Treasuries. 
 
 To forecast the short end of the curve (i.e. 2Y Treasury yields), FOMC minutes senetiments were analyzed given the short end is very sensitive to Fed Fund rate adjustments. 
